@@ -13,9 +13,10 @@ SQL
 ### Files
 Sakila Sample Database: https://dev.mysql.com/doc/sakila/en/
 
+dvd-rental-erd-2.PDF
+
+sql-project-submission-SM_Vivier.pdf
+
 final.SQL
-
-SM_Vivier_SQL_submission.txt
-
 ### Credits
 This project would not have been possible without the help and guidance received from Udacity's course: Programming for Data Science with R.
