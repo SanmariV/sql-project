@@ -12,6 +12,7 @@ SQL
 
 ### Files
 Sakila Sample Database: https://dev.mysql.com/doc/sakila/en/
+
 dvd-rental-erd-2.PDF
 
 sql-project-submission-SM_Vivier.pdf
