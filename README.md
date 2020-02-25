@@ -13,7 +13,9 @@ I used Python and Pytorch.
 ### Files
 Sakila Sample Database: https://dev.mysql.com/doc/sakila/en/
 
-functions.py train.py predict.py workspace_utils.py
+dvd-rental-erd-2.PDF
+
+sql-project-submission-SM_Vivier.pdf
 
 ### Credits
 This project would not have been possible without the help and guidance received from Udacity's course: AI Programming with Python. Also, there are a few blogs/ articles/ websites of individuals referenced in the .html file that helped me immeasurably to complete this project.
