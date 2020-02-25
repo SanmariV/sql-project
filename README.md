@@ -19,6 +19,3 @@ SM_Vivier_SQL_submission.txt
 
 ### Credits
 This project would not have been possible without the help and guidance received from Udacity's course: Programming for Data Science with R.
-
-### Copyright
-The parts of this project where reference is made to third-party blogs and/or websites: these individuals own the copyright of the segments of code that have been referenced. This project is the copyright of Udacity.
